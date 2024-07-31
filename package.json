@@ -1,8 +1,9 @@
 {
   "name": "monaco-editor-esm-cdn",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESM build of Monaco Editor which can be loaded from CDN.",
   "author": "Hatem Hosny",
+  "homepage": "https://github.com/hatemhosny/monaco-editor-esm-cdn",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "22.0.0",
